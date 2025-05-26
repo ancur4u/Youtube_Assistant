@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+youtube-transcript-api
+yt_dlp
+langchain
+langchain-openai
+langchain-community
+openai
+faiss-cpu
+reportlab
+numpy
