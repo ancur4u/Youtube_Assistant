@@ -1,16 +1,23 @@
-Add the API keys in a .env file placed in the same folder hierarchy.
+🚀 Introducing My New Project: YouTube Video Summarizer with ChatGPT & RAG 🎥🧠
 
-OPENAI_API_KEY=
-LANGCHAIN_API_KEY=
-LANGCHAIN_TRACING_V2=true
-ORACLE_CLIENT_LIB_DIR=
-ORACLE_WALLET_PATH=
-ORACLE_USERNAME=
-ORACLE_PASSWORD=
-ORACLE_SERVICE_NAME=
-GROQ_API_KEY=
-PHI_API_KEY=
-HUGGINGFACEHUB_ACCESS_TOKEN=
-HF_INFERENCE_KEY=
-GOOGLE_API_KEY=
-USER_AGENT="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
+Ever wished you could understand a YouTube video without watching the whole thing? I just built a YouTube Video Assistant that can:
+
+✅ Auto-fetch transcripts from YouTube
+✅ Generate AI-powered summaries in your preferred tone (Professor, Friendly Bot, Entertainer)
+✅ Allow interactive Q&A about the video using RAG (Retrieval-Augmented Generation)
+✅ Show retrieved chunks + timestamps + source context
+✅ Export your full chat history as a downloadable PDF
+✅ Supports English + Hindi transcripts
+
+All powered using:
+🔹 OpenAI GPT-4o-mini
+🔹 LangChain
+🔹 FAISS for vector similarity search
+🔹 Streamlit for the interactive UI
+🔹 yt-dlp + YouTubeTranscriptAPI
+
+💡 Users can even plug in their own OpenAI API keys for personalized experience.
+
+🧪 Built this to make video content more searchable, explorable, and actionable.
+
+#GenerativeAI #YouTube #RAG #LangChain #OpenAI #Streamlit #GPT4o #Python #AItools #YouTubeSummarizer
